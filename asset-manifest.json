@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/T3game/static/css/main.a530b0a1.chunk.css",
+    "main.js": "/T3game/static/js/main.e065a61d.chunk.js",
+    "main.js.map": "/T3game/static/js/main.e065a61d.chunk.js.map",
+    "runtime-main.js": "/T3game/static/js/runtime-main.d15a4fef.js",
+    "runtime-main.js.map": "/T3game/static/js/runtime-main.d15a4fef.js.map",
+    "static/css/2.23a9c941.chunk.css": "/T3game/static/css/2.23a9c941.chunk.css",
+    "static/js/2.a0822d01.chunk.js": "/T3game/static/js/2.a0822d01.chunk.js",
+    "static/js/2.a0822d01.chunk.js.map": "/T3game/static/js/2.a0822d01.chunk.js.map",
+    "index.html": "/T3game/index.html",
+    "precache-manifest.4930e3ee1ba4c76d9689282c4b968fea.js": "/T3game/precache-manifest.4930e3ee1ba4c76d9689282c4b968fea.js",
+    "service-worker.js": "/T3game/service-worker.js",
+    "static/css/2.23a9c941.chunk.css.map": "/T3game/static/css/2.23a9c941.chunk.css.map",
+    "static/css/main.a530b0a1.chunk.css.map": "/T3game/static/css/main.a530b0a1.chunk.css.map",
+    "static/js/2.a0822d01.chunk.js.LICENSE.txt": "/T3game/static/js/2.a0822d01.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/T3game/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d15a4fef.js",
+    "static/css/2.23a9c941.chunk.css",
+    "static/js/2.a0822d01.chunk.js",
+    "static/css/main.a530b0a1.chunk.css",
+    "static/js/main.e065a61d.chunk.js"
+  ]
+}
